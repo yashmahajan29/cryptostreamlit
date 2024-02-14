@@ -3,7 +3,7 @@ pandas
 streamlit
 ta
 tensorflow
-sklearn
+scikit-learn
 os
 plotly
 datetime
