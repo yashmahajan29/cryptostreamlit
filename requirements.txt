@@ -1,1 +1,10 @@
 yfinance
+pandas
+streamlit
+ta
+tensorflow
+sklearn
+os
+plotly
+datetime
+io
