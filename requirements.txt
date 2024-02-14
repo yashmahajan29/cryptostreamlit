@@ -4,7 +4,5 @@ streamlit
 ta
 tensorflow
 scikit-learn
-os
 plotly
 datetime
-io
